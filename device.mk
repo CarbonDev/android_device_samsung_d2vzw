@@ -24,7 +24,3 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/d2-common/overlay-cdma
 
 # Inherit from d2-common
 $(call inherit-product, device/samsung/d2-common/d2-common.mk)
-
-#RIL
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.qc_lte_network_modes=true

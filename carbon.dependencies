@@ -25,8 +25,8 @@
  },
  {
   "remote": "gh",
-  "repository": "TheMuppets/proprietary_vendor_samsung",
+  "repository": "SlimRoms/proprietary_vendor_samsung",
   "target_path": "vendor/samsung",
-  "revision": "cm-11.0"
+  "revision": "kk4.4"
  }
 ]
